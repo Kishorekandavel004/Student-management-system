@@ -202,30 +202,6 @@ This project is intended for educational and local-development use until the add
 
 ---
 
-## 📸 Screenshots
-
-Screenshots of the application can be added here to demonstrate the interface.
-
-Suggested screenshots:
-
-1. Login page
-2. Registration page
-3. Student dashboard
-4. Add Student page
-5. Edit Student page
-
-After adding screenshots to a folder named `screenshots`, insert them using Markdown:
-
-```markdown
-![Login Page](screenshots/login.png)
-
-![Student Dashboard](screenshots/dashboard.png)
-
-![Registration Page](screenshots/register.png)
-```
-
----
-
 ## 🎯 Future Enhancements
 
 - Export student records to Excel or CSV
